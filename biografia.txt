@@ -1,3 +1,4 @@
-Hola, mi nombre es José Torres.
+Hola, mi nombre es José Torres, actualmente tengo 25 años.
 
-Soy Venezolano, Ing. De Sistemas actualmente aprendiendo GIT para realizar un control de versiones de mis futuros proyectos profesionales.
+Soy Venezolano, Ing. De Sistemas actualmente aprendiendo GIT para realizar un control de versiones de mis futuros proyectos profesionales. Quería estudiar en Platzi desde aproximadamente 2018 y por fin en 2021 tuve la oportunidad de hacerlo...
+
