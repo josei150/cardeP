@@ -1,0 +1,3 @@
+Hola, mi nombre es José Torres.
+
+Soy Venezolano, Ing. De Sistemas actualmente aprendiendo GIT para realizar un control de versiones de mis futuros proyectos profesionales.
