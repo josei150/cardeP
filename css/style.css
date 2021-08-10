@@ -1,9 +1,18 @@
 body{
 
     background-color: azure;
-    text-align: center;
-    color:burlywood;
+    color:coral;
 }
+
+.seccion
+{
+    align-content: center;
+    margin-left: 30%;
+    font-size: 24px;
+
+}
+
+
 
 h1{
     color: cyan;
