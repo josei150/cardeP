@@ -12,7 +12,17 @@ body{
 
 }
 
+img
+{
+    width: 300px;
+    height: 300px;
+}
 
+figcaption
+{
+    padding-left: 40px;    
+    
+}
 
 h1{
     color: cyan;
