@@ -1,15 +1,62 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body{
 
     background-color: azure;
     color:coral;
 }
 
+.menu
+{
+    list-style: none;
+}
+
+.menu-item{
+    display: inline-block;
+    padding-right: 9%;
+    padding-left: 9%;
+    
+}
+
+.menu-item a{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 24px;
+    background-color:dodgerblue;
+    border:greenyellow solid;
+    border-radius: 10px;
+    color: azure;
+    padding: 5px;
+}
+
+.menu-item a:hover{
+    background-color: orange;
+}
+
+.menu-item a:active{
+    color: rebeccapurple;
+}
+
+
 .seccion
 {
     align-content: center;
-    margin-left: 30%;
     font-size: 24px;
+    
+}
 
+.lista-mercado{
+    
+    padding: 0 35% 0 35%;
+}
+
+.lista-mercado ol{
+    padding-left: 1em;
 }
 
 img
@@ -24,6 +71,9 @@ figcaption
     
 }
 
-h1{
-    color: cyan;
+.titulo{
+    color:rgb(127, 245, 219);
+    text-align: center;
+    margin-bottom: 1em;
+    margin-top: 1em;
 }
