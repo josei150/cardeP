@@ -1,0 +1,93 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    background-color:rgb(78, 188, 216);
+    background-image: url("../imagenes/stars.jpg");
+    background-repeat: no-repeat;
+}
+img[alt*="Logo"]{
+    display: inline-block;
+    position: absolute;
+    left: 30rem;
+    top: -11rem;  
+    width: 70%;
+    height: 40%; 
+}
+.titulo-desafio{
+    background-image: url(../imagenes/node-js.png);
+}
+
+.titulo-desafio h1{
+    display: inline-block;
+    position: relative;
+    left: 25rem;
+    top: -2rem;
+    border: 2px rgb(4, 46, 48) solid;
+    border-radius: 7px;
+    background-color:#83cd29;
+    font-size: 3rem;
+
+}
+
+p{
+    padding: 2rem;
+}
+
+.contenido-desafio{
+    display: inline-block;
+    position: absolute;
+    left: 50rem;
+    top: 50rem;
+    font-size: 2rem;
+    border: 2px rgb(4, 46, 48) solid;
+    border-radius: 10px;
+    background-color:#7af8d1;
+    width: 800px;
+    height: 300px;
+}
+
+.contenido-desafio ol{
+    margin-left: 4rem;
+}
+
+.camino
+{
+    
+    position: absolute;
+    top: 88rem;
+    border: indigo 2px solid;
+    border-radius: 2rem;
+    background-color: #7af8d1;
+    align-content: center;
+    margin-left: 2.5rem;
+}
+
+.camino figure{
+    display: inline-block;
+    margin: 1rem;
+}
+
+.camino figcaption{
+    font-size: 2.4rem;
+    text-align: center;
+    
+}
+
+.camino img{
+    border: lightseagreen .5rem solid;
+    border-radius: .8rem;
+    width: 20rem;
+    height: 20rem;
+    background-color: white;
+    
+
+}
