@@ -1,0 +1,130 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+    color: white;
+}
+
+body{
+    background-color: rgb(24 70 99);
+}
+
+nav{
+
+    display: flex;
+    margin-bottom: 1.5rem;
+    
+    
+}
+
+nav img{
+
+    width: 20rem;
+    height: 10rem;
+}
+
+.menu{
+
+    display: flex;
+    list-style: none;
+    justify-content:flex-end;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+    
+}
+
+.menu li{
+    
+    flex-direction: row;
+    
+}
+
+.menu a{
+
+    display: inline-block;
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 0 3rem;
+    font-size: 3rem;
+    color: rgb(255, 118, 68);
+
+}
+
+.menu a:active{
+
+    color: gold;
+}
+
+main{
+    display: flex;
+}
+
+.columna{
+    
+    flex-direction: column;
+    
+    
+}
+
+.columna figure{
+
+    
+    border: 0.3rem black solid;
+    border-radius: 1rem;
+    margin: 1.5rem;
+    margin-right: 0.5rem;
+
+}
+
+.columna img{
+    max-width: 40rem;
+    max-height: 30rem;
+    border-bottom: 0.3rem black solid;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
+
+.columna figcaption{
+    text-align: center;
+}
+
+.columna strong{
+    display: inline-block;
+    font-size: 2rem;
+
+    
+}
+
+section{
+    margin: 1.5rem;
+    margin-left: 0.5rem;
+    font-size: 2rem;
+    border: 0.3rem solid black;
+    border-radius: 1rem;
+    
+}
+
+section p{
+    text-align: justify;
+    margin-bottom: 2rem;
+    padding: 0.5rem;
+    
+    
+}
+
+footer{
+    font-size: 2rem;
+    /* border: 0.3rem solid;
+    border-radius: 1rem; */
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+
